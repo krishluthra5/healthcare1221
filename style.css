@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
 body {
-  background-image: url(/images/B1.png);
+  background-image: url(images/B1.png);
   position: absolute;
   width: 1442px;
   height: 729px;
@@ -14,7 +14,7 @@ body {
 
 
 .logo {
-  background: url(/images/logo.png);
+  background: url(images/logo.png);
   width: 183px;
   height: 37.11px;
   left: 51px;
